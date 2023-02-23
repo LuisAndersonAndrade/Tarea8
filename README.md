@@ -16,7 +16,7 @@ Informe Tarea 8
 
 1.	OBJETIVO GENERAL
 
-Comprobar conceptos de circuitos con resistores, inductores y capacitores en cirvuitos RC y RL 
+Comprobar conceptos de circuitos con resistores, inductores y capacitores en circuitos RC y RL 
 
 2.	OBJETIVOS ESPECÍFICOS
 
@@ -382,6 +382,7 @@ SECCIÓN 16–8 Aplicaciones básicas
 
 5.VIDEO
 
+https://youtu.be/wVDRzYUdqfI
 
 6.CONCLUSIONES
 
